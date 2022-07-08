@@ -40,3 +40,17 @@ cout << "Size of wchar_t : " << sizeof(wchar_t)
 
 	return 0;
 }
+
+
+/*Size of char : 1 byte
+char minimum value: -128
+char maximum value: 127
+Size of int : 4 bytes
+Size of short int : 2 bytes
+Size of long int : 8 bytes
+Size of signed long int : 8 bytes
+Size of unsigned long int : 8 bytes
+Size of float : 4 bytes
+Size of double : 8 bytes
+Size of wchar_t : 4 bytes
+*/
